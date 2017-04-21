@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<School name="USU">
+	<Students>
+		<Student name="student01" number="101010001"/>
+		<Student name="student02" number="101010002"/>
+		<Student name="student03" number="101010003"/>
+		<Student name="student04" number="101010004"/>
+		<Student name="student05" number="101010005"/>
+		<Student name="student06" number="101010006"/>
+	</Students>
+	<Teachers>
+		<Teacher name="teacher01" number="201010001"/>
+		<Teacher name="teacher02" number="201010002"/>
+		<Teacher name="teacher03" number="201010003"/>
+		<Teacher name="teacher04" number="201010004"/>
+		<Teacher name="teacher05" number="201010005"/>
+		<Teacher name="teacher06" number="201010006"/>
+		<Teacher name="teacher07" number="201010007"/>
+		<Teacher name="teacher08" number="201010008"/>
+	</Teachers>
+</School>
